@@ -78,7 +78,7 @@ I confirm that the work documented in this repository represents my own practica
 
 ## Submission Details
 
-**Repository Link:** [Add your GitHub repository link here]
+**Repository Link:** https://github.com/inezalisagabrielle-gif/oracle_pdb_ass_II_28527_Gabrielle.git
 
 **PDB Name Created:** `IN_PDB_28527`
 
